@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=ARUN%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=ARUN%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Arun Kumar"/>
 
 # 👋 Hey, I'm Arun Kumar
 
-### `Aspiring Software Developer` · `IT Undergraduate` · `DSA Enthusiast`
+### 💻 Aspiring Software Developer · 🎓 IT Undergraduate · 🧠 DSA Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+Real-World+Web+Applications;Solving+Data+Structures+%26+Algorithms;Exploring+Full+Stack+Development;Learning+Java+%7C+Python+%7C+JavaScript;Turning+Ideas+Into+Working+Projects" alt="Typing Animation"/>
 
 <br/>
 
-<a href="https://github.com/kumarun415">
 <img src="https://komarev.com/ghpvc/?username=kumarun415&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</a>
 
 </div>
 
@@ -26,7 +24,7 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 * 🎓 B.Tech — Information Technology
 * 💻 Aspiring Software Developer
-* 🧠 Practicing DSA & problem solving
+* 🧠 Practicing DSA & Problem Solving
 * 🌐 Exploring Full Stack Web Development
 * 🚀 Building practical, real-world applications
 * 📚 Strengthening Java, Python, JavaScript & SQL
@@ -37,28 +35,28 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 ## 🧩 My Developer Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming Languages"/>
 </p>
 
-### Frontend
+### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies"/>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
 </p>
 
-### Tools & Workflow
+### 🔧 Tools & Workflow
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development Tools"/>
 </p>
 
 ---
@@ -67,12 +65,12 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="DBMS"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge" alt="Computer Networks"/>
 
 </div>
 
@@ -90,14 +88,14 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 MeetVerse is a full-stack web application focused on real-time communication and modern web architecture.
 
-| Feature                    | Description                       |
-| :------------------------- | :-------------------------------- |
-| 👥 Real-Time Communication | Video calling and communication   |
-| 🔐 Authentication          | Secure user authentication        |
-| ⚛️ Frontend                | Interactive React-based interface |
-| ⚙️ Backend                 | REST API architecture             |
-| 🗄️ Database               | MongoDB integration               |
-| 📱 UI                      | Responsive web experience         |
+| Feature                    | Description                      |
+| :------------------------- | :------------------------------- |
+| 👥 Real-Time Communication | Video calling and communication  |
+| 🔐 Authentication          | User authentication              |
+| ⚛️ Frontend                | Interactive React interface      |
+| ⚙️ Backend                 | REST API architecture            |
+| 🗄️ Database               | MongoDB integration              |
+| 📱 Responsive UI           | Modern responsive web experience |
 
 **Built with:** `React` · `Node.js` · `Express.js` · `MongoDB`
 
@@ -108,7 +106,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 <div align="center">
 
 <a href="https://github.com/kumarun415">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kumarun415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kumarun415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/kumarun415">
@@ -117,7 +115,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kumarun415&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kumarun415&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -143,10 +141,10 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/arun-k____2311/">
-<img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
 </div>
@@ -157,7 +155,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarun415&theme=tokyo-night&hide_border=true&area=true&custom_title=Arun%20Kumar%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarun415&theme=tokyo-night&hide_border=true&area=true&custom_title=Arun%20Kumar%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -208,14 +206,29 @@ width="100%"/>
 
 ## 🎯 2026 Roadmap
 
-```text
-DSA & Problem Solving        ███████████░░░  Learning
-Full Stack Development       █████████░░░░░  Building
-MERN Stack                   █████████░░░░░  Building
-CS Fundamentals              ████████░░░░░░  Strengthening
-Open Source                  ████░░░░░░░░░░  Exploring
-Software Engineering         ██████░░░░░░░░  Preparing
-```
+<div align="center">
+
+| Goal                            |      Status      |
+| :------------------------------ | :--------------: |
+| 🧠 Data Structures & Algorithms |    🔄 Learning   |
+| 💻 Full Stack Development       |    🔄 Building   |
+| ⚛️ MERN Stack                   |    🔄 Building   |
+| 📚 CS Fundamentals              | 🔄 Strengthening |
+| 🌟 Open Source                  |   🔄 Exploring   |
+| 💼 Software Engineering         |   🎯 Preparing   |
+
+</div>
+
+---
+
+## 📌 What I'm Working On
+
+* 🔨 Building full-stack web applications
+* 🧠 Solving DSA problems consistently
+* 🌐 Improving frontend and backend development
+* 🗄️ Strengthening database concepts
+* 📚 Improving core Computer Science fundamentals
+* 🚀 Preparing for software engineering opportunities
 
 ---
 
@@ -231,7 +244,7 @@ Software Engineering         ██████░░░░░░░░  Prepari
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<!-- Replace the URL below with your actual LinkedIn profile -->
+<!-- Replace this URL with your actual LinkedIn profile -->
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
