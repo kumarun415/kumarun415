@@ -10,6 +10,16 @@
 
 <br/>
 
+<a href="https://portfolio-website-three-omega-20.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+</a>
+
+<a href="https://github.com/kumarun415/portfolio-website">
+<img src="https://img.shields.io/badge/💻%20PORTFOLIO%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code"/>
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=kumarun415&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
@@ -76,28 +86,66 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 🎥 MeetVerse
 
 <div align="center">
 
-### 🎥 MeetVerse
-
-**Real-Time Video Calling Web Application**
+### Real-Time Video Calling Web Application
 
 </div>
 
 MeetVerse is a full-stack web application focused on real-time communication and modern web architecture.
 
-| Feature                    | Description                      |
-| :------------------------- | :------------------------------- |
-| 👥 Real-Time Communication | Video calling and communication  |
-| 🔐 Authentication          | User authentication              |
-| ⚛️ Frontend                | Interactive React interface      |
-| ⚙️ Backend                 | REST API architecture            |
-| 🗄️ Database               | MongoDB integration              |
-| 📱 Responsive UI           | Modern responsive web experience |
+| Feature | Description |
+| :--- | :--- |
+| 👥 Real-Time Communication | Video calling and communication |
+| 🔐 Authentication | User authentication |
+| ⚛️ Frontend | Interactive React interface |
+| ⚙️ Backend | REST API architecture |
+| 🗄️ Database | MongoDB integration |
+| 📱 Responsive UI | Modern responsive web experience |
 
 **Built with:** `React` · `Node.js` · `Express.js` · `MongoDB`
+
+<div align="center">
+
+<a href="https://github.com/kumarun415/MeetVerse">
+<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="MeetVerse GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Personal Portfolio Website
+
+A modern personal developer portfolio built to showcase my projects, technical skills, education, certifications, coding journey, and development experience.
+
+**Built with:** `React` · `Vite` · `JavaScript` · `CSS`
+
+### ✨ Highlights
+
+* 🌗 Dark / Light theme
+* 📱 Responsive interface
+* 📄 Resume section
+* 🏆 Certifications showcase
+* 💻 Project showcase with GitHub and Live Demo links
+* 📧 Functional contact form using EmailJS
+* 🔗 GitHub, LinkedIn, LeetCode & GeeksforGeeks profiles
+
+<div align="center">
+
+<a href="https://portfolio-website-three-omega-20.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+</a>
+
+<a href="https://github.com/kumarun415/portfolio-website">
+<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub"/>
+</a>
+
+</div>
 
 ---
 
@@ -135,7 +183,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 <div align="center">
 
-<a href="https://leetcode.com/arun-k____2311/">
+<a href="https://leetcode.com/u/arun-k____2311/">
 
 <img src="https://leetcard.jacoblin.cool/arun-k____2311?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
 
@@ -143,7 +191,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 <br/><br/>
 
-<a href="https://leetcode.com/arun-k____2311/">
+<a href="https://leetcode.com/u/arun-k____2311/">
 <img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
@@ -190,15 +238,15 @@ width="100%"/>
 
 <div align="center">
 
-|          Area          | Current Focus                 |
-| :--------------------: | :---------------------------- |
-|       ☕ **Java**       | Data Structures & Algorithms  |
-|      🐍 **Python**     | Programming & Problem Solving |
-|      ⚛️ **React**      | Modern Frontend Development   |
-|     🟢 **Node.js**     | Backend Development           |
-|     🍃 **MongoDB**     | NoSQL Database Development    |
-|       🗄️ **SQL**      | Database & Query Optimization |
-| 🧠 **CS Fundamentals** | DBMS · OS · CN · OOP          |
+| Area | Current Focus |
+| :---: | :--- |
+| ☕ **Java** | Data Structures & Algorithms |
+| 🐍 **Python** | Programming & Problem Solving |
+| ⚛️ **React** | Modern Frontend Development |
+| 🟢 **Node.js** | Backend Development |
+| 🍃 **MongoDB** | NoSQL Database Development |
+| 🗄️ **SQL** | Database & Query Optimization |
+| 🧠 **CS Fundamentals** | DBMS · OS · CN · OOP |
 
 </div>
 
@@ -208,14 +256,14 @@ width="100%"/>
 
 <div align="center">
 
-| Goal                            |      Status      |
-| :------------------------------ | :--------------: |
-| 🧠 Data Structures & Algorithms |    🔄 Learning   |
-| 💻 Full Stack Development       |    🔄 Building   |
-| ⚛️ MERN Stack                   |    🔄 Building   |
-| 📚 CS Fundamentals              | 🔄 Strengthening |
-| 🌟 Open Source                  |   🔄 Exploring   |
-| 💼 Software Engineering         |   🎯 Preparing   |
+| Goal | Status |
+| :--- | :---: |
+| 🧠 Data Structures & Algorithms | 🔄 Learning |
+| 💻 Full Stack Development | 🔄 Building |
+| ⚛️ MERN Stack | 🔄 Building |
+| 📚 CS Fundamentals | 🔄 Strengthening |
+| 🌟 Open Source | 🔄 Exploring |
+| 💼 Software Engineering | 🎯 Preparing |
 
 </div>
 
@@ -240,14 +288,20 @@ width="100%"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://leetcode.com/arun-k____2311/">
+<a href="https://portfolio-website-three-omega-20.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://leetcode.com/u/arun-k____2311/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<!-- Replace this URL with your actual LinkedIn profile -->
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/arun-kumar-a8b310382">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/kumarun415">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 </div>
