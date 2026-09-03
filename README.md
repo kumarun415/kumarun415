@@ -2,13 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=ARUN%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Arun Kumar"/>
 
+<br/>
+
+<img src="https://github.com/kumarun415.png" width="150" height="150" style="border-radius:50%" alt="Arun Kumar"/>
+
 # 👋 Hey, I'm Arun Kumar
 
 ### 💻 Aspiring Software Developer · 🎓 IT Undergraduate · 🧠 DSA Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+Real-World+Web+Applications;Solving+Data+Structures+%26+Algorithms;Exploring+Full+Stack+Development;Learning+Java+%7C+Python+%7C+JavaScript;Turning+Ideas+Into+Working+Projects" alt="Typing Animation"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
@@ -32,14 +36,14 @@
 
 I'm a **B.Tech Information Technology student** focused on building strong foundations in software development, Data Structures & Algorithms, and modern web technologies.
 
-* 🎓 B.Tech — Information Technology
-* 💻 Aspiring Software Developer
-* 🧠 Practicing DSA & Problem Solving
-* 🌐 Exploring Full Stack Web Development
-* 🚀 Building practical, real-world applications
-* 📚 Strengthening Java, Python, JavaScript & SQL
-* 🎯 Preparing for software engineering opportunities
-* ⚡ Philosophy: **Learn → Build → Solve → Improve**
+- 🎓 B.Tech — Information Technology
+- 💻 Aspiring Software Developer
+- 🧠 Practicing DSA & Problem Solving
+- 🌐 Exploring Full Stack Web Development
+- 🚀 Building practical, real-world applications
+- 📚 Strengthening Java, Python, JavaScript & SQL
+- 🎯 Preparing for software engineering opportunities
+- ⚡ Philosophy: **Learn → Build → Solve → Improve**
 
 ---
 
@@ -48,25 +52,33 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 ### 👨‍💻 Programming Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming Languages"/>
+
 </p>
 
 ### 🌐 Frontend Development
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies"/>
+
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
+
 </p>
 
 ### 🔧 Tools & Workflow
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development Tools"/>
+
 </p>
 
 ---
@@ -76,10 +88,15 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 <div align="center">
 
 <img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA"/>
+
 <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" alt="OOP"/>
+
 <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="DBMS"/>
+
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+
 <img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge" alt="Operating Systems"/>
+
 <img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge" alt="Computer Networks"/>
 
 </div>
@@ -112,7 +129,9 @@ MeetVerse is a full-stack web application focused on real-time communication and
 <div align="center">
 
 <a href="https://github.com/kumarun415/MeetVerse">
+
 <img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="MeetVerse GitHub"/>
+
 </a>
 
 </div>
@@ -127,22 +146,26 @@ A modern personal developer portfolio built to showcase my projects, technical s
 
 ### ✨ Highlights
 
-* 🌗 Dark / Light theme
-* 📱 Responsive interface
-* 📄 Resume section
-* 🏆 Certifications showcase
-* 💻 Project showcase with GitHub and Live Demo links
-* 📧 Functional contact form using EmailJS
-* 🔗 GitHub, LinkedIn, LeetCode & GeeksforGeeks profiles
+- 🌗 Dark / Light theme
+- 📱 Responsive interface
+- 📄 Resume section
+- 🏆 Certifications showcase
+- 💻 Project showcase with GitHub and Live Demo links
+- 📧 Functional contact form using EmailJS
+- 🔗 GitHub, LinkedIn, LeetCode & GeeksforGeeks profiles
 
 <div align="center">
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
+
 <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+
 </a>
 
 <a href="https://github.com/kumarun415/portfolio-website">
+
 <img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub"/>
+
 </a>
 
 </div>
@@ -154,11 +177,15 @@ A modern personal developer portfolio built to showcase my projects, technical s
 <div align="center">
 
 <a href="https://github.com/kumarun415">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=kumarun415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+
 </a>
 
 <a href="https://github.com/kumarun415">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarun415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
 </a>
 
 <br/><br/>
@@ -192,7 +219,9 @@ A modern personal developer portfolio built to showcase my projects, technical s
 <br/><br/>
 
 <a href="https://leetcode.com/u/arun-k____2311/">
+
 <img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
+
 </a>
 
 </div>
@@ -271,12 +300,12 @@ width="100%"/>
 
 ## 📌 What I'm Working On
 
-* 🔨 Building full-stack web applications
-* 🧠 Solving DSA problems consistently
-* 🌐 Improving frontend and backend development
-* 🗄️ Strengthening database concepts
-* 📚 Improving core Computer Science fundamentals
-* 🚀 Preparing for software engineering opportunities
+- 🔨 Building full-stack web applications
+- 🧠 Solving DSA problems consistently
+- 🌐 Improving frontend and backend development
+- 🗄️ Strengthening database concepts
+- 📚 Improving core Computer Science fundamentals
+- 🚀 Preparing for software engineering opportunities
 
 ---
 
@@ -285,23 +314,33 @@ width="100%"/>
 <div align="center">
 
 <a href="https://github.com/kumarun415">
+
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
 </a>
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
+
 <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+
 </a>
 
 <a href="https://leetcode.com/u/arun-k____2311/">
+
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/arun-kumar-a8b310382">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/kumarun415">
+
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+
 </a>
 
 </div>
