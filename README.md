@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://github.com/kumarun415.png" width="150" height="150" style="border-radius:50%" alt="Arun Kumar"/>
 
 # 👋 Hey, I'm Arun Kumar
 
@@ -15,11 +14,11 @@
 <br/><br/>
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/kumarun415/portfolio-website">
-<img src="https://img.shields.io/badge/💻%20PORTFOLIO%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code"/>
+<img src="https://img.shields.io/badge/💻%20PORTFOLIO%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source"/>
 </a>
 
 <br/><br/>
@@ -30,26 +29,26 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+# 👨‍💻 About Me
 
 > **A developer in progress who believes that consistency beats perfection.**
 
-I'm a **B.Tech Information Technology student** focused on building strong foundations in software development, Data Structures & Algorithms, and modern web technologies.
+I'm a **B.Tech Information Technology student** focused on software development, Data Structures & Algorithms, and modern web technologies.
 
 - 🎓 B.Tech — Information Technology
 - 💻 Aspiring Software Developer
-- 🧠 Practicing DSA & Problem Solving
-- 🌐 Exploring Full Stack Web Development
-- 🚀 Building practical, real-world applications
-- 📚 Strengthening Java, Python, JavaScript & SQL
-- 🎯 Preparing for software engineering opportunities
-- ⚡ Philosophy: **Learn → Build → Solve → Improve**
+- 🧠 DSA & Problem Solving
+- 🌐 Full Stack Web Development
+- 🚀 Real-World Project Development
+- 📚 Java · Python · JavaScript · SQL
+- 🎯 Preparing for Software Engineering Opportunities
+- ⚡ **Learn → Build → Solve → Improve**
 
 ---
 
-## 🧩 My Developer Stack
+# 🧩 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
 
@@ -57,47 +56,42 @@ I'm a **B.Tech Information Technology student** focused on building strong found
 
 </p>
 
-### 🌐 Frontend Development
+## 🌐 Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend"/>
 
 </p>
 
-### ⚙️ Backend & Databases
+## ⚙️ Backend & Database
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database"/>
 
 </p>
 
-### 🔧 Tools & Workflow
+## 🔧 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools"/>
 
 </p>
 
 ---
 
-## 🧠 Computer Science Foundations
+# 🧠 Computer Science Foundations
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA"/>
-
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" alt="OOP"/>
-
-<img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="DBMS"/>
-
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge" alt="Operating Systems"/>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge" alt="Computer Networks"/>
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge"/>
 
 </div>
 
@@ -122,7 +116,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 | ⚛️ Frontend | Interactive React interface |
 | ⚙️ Backend | REST API architecture |
 | 🗄️ Database | MongoDB integration |
-| 📱 Responsive UI | Modern responsive web experience |
+| 📱 Responsive UI | Modern responsive experience |
 
 **Built with:** `React` · `Node.js` · `Express.js` · `MongoDB`
 
@@ -130,7 +124,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 <a href="https://github.com/kumarun415/MeetVerse">
 
-<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="MeetVerse GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -138,33 +132,35 @@ MeetVerse is a full-stack web application focused on real-time communication and
 
 ---
 
-## 💻 Personal Portfolio Website
+# 💻 Personal Portfolio
 
-A modern personal developer portfolio built to showcase my projects, technical skills, education, certifications, coding journey, and development experience.
+A modern developer portfolio built to showcase projects, technical skills, education, certifications, coding journey and development experience.
 
 **Built with:** `React` · `Vite` · `JavaScript` · `CSS`
 
 ### ✨ Highlights
 
-- 🌗 Dark / Light theme
-- 📱 Responsive interface
-- 📄 Resume section
-- 🏆 Certifications showcase
-- 💻 Project showcase with GitHub and Live Demo links
-- 📧 Functional contact form using EmailJS
-- 🔗 GitHub, LinkedIn, LeetCode & GeeksforGeeks profiles
+- 🌗 Dark / Light Theme
+- 📱 Responsive Design
+- 📄 Resume Section
+- 🏆 Certifications
+- 💻 Project Showcase
+- 📧 EmailJS Contact Form
+- 🔗 GitHub · LinkedIn · LeetCode · GeeksforGeeks
 
 <div align="center">
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
 
-<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
+&nbsp;
+
 <a href="https://github.com/kumarun415/portfolio-website">
 
-<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -176,65 +172,41 @@ A modern personal developer portfolio built to showcase my projects, technical s
 
 <div align="center">
 
-<a href="https://github.com/kumarun415">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarun415&theme=github_dark" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kumarun415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-</a>
-
-<a href="https://github.com/kumarun415">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarun415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarun415&theme=github_dark" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kumarun415&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarun415&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 GitHub Contribution Overview
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kumarun415&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarun415&theme=github_dark" width="100%" alt="GitHub Contribution Overview"/>
 
 </div>
 
 ---
 
-# 💻 LeetCode Journey
+# 🌐 3D Contribution Profile
 
 <div align="center">
 
-<a href="https://leetcode.com/u/arun-k____2311/">
-
-<img src="https://leetcard.jacoblin.cool/arun-k____2311?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/arun-k____2311/">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
-
-</a>
+<img src="./profile-3d-contrib/profile-green-animate.svg"
+     width="100%"
+     alt="Animated 3D GitHub Contribution Profile"/>
 
 </div>
 
----
+### ✨ 3D Contribution Animation
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarun415&theme=tokyo-night&hide_border=true&area=true&custom_title=Arun%20Kumar%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
+This 3D contribution profile is generated automatically through GitHub Actions and represents my GitHub contribution activity.
 
 ---
 
@@ -260,10 +232,36 @@ width="100%"/>
 </picture>
 
 </div>
-
+<!--
 ---
 
-## 📚 Currently Learning
+# 💻 LeetCode Activity
+
+<div align="center">
+
+<a href="https://leetcode.com/u/arun-k____2311/">
+
+<img
+src="https://leetcard.jacoblin.cool/arun-k____2311?theme=dark&font=baloo&ext=heatmap"
+alt="LeetCode Activity"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/arun-k____2311/">
+
+<img
+src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+alt="View LeetCode Profile"/>
+
+</a>
+
+</div>
+-->
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
@@ -281,7 +279,7 @@ width="100%"/>
 
 ---
 
-## 🎯 2026 Roadmap
+# 🎯 2026 Roadmap
 
 <div align="center">
 
@@ -298,49 +296,39 @@ width="100%"/>
 
 ---
 
-## 📌 What I'm Working On
+# 📌 What I'm Working On
 
 - 🔨 Building full-stack web applications
 - 🧠 Solving DSA problems consistently
-- 🌐 Improving frontend and backend development
+- 🌐 Improving frontend & backend development
 - 🗄️ Strengthening database concepts
-- 📚 Improving core Computer Science fundamentals
+- 📚 Improving Computer Science fundamentals
 - 🚀 Preparing for software engineering opportunities
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/kumarun415">
-
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
-
-<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/arun-k____2311/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arun-kumar-a8b310382">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/kumarun415">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
