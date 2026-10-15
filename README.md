@@ -1,9 +1,9 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=ARUN%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Arun Kumar"/>
 
 <br/>
-
 
 # 👋 Hey, I'm Arun Kumar
 
@@ -13,9 +13,11 @@
 
 <br/><br/>
 
-<!--comment kiya hai <a href="https://portfolio-website-three-omega-20.vercel.app">-->
+<!-- PORTFOLIO BUTTON TEMPORARILY DISABLED
+<a href="https://portfolio-website-three-omega-20.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+-->
 
 <a href="https://github.com/kumarun415/portfolio-website">
 <img src="https://img.shields.io/badge/💻%20PORTFOLIO%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source"/>
@@ -51,33 +53,25 @@ I'm a **B.Tech Information Technology student** focused on software development,
 ## 👨‍💻 Programming Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming Languages"/>
-
 </p>
 
 ## 🌐 Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend"/>
-
 </p>
 
 ## ⚙️ Backend & Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database"/>
-
 </p>
 
 ## 🔧 Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools"/>
-
 </p>
 
 ---
@@ -123,9 +117,7 @@ MeetVerse is a full-stack web application focused on real-time communication and
 <div align="center">
 
 <a href="https://github.com/kumarun415/MeetVerse">
-
-<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="MeetVerse Source"/>
 </a>
 
 </div>
@@ -150,18 +142,14 @@ A modern developer portfolio built to showcase projects, technical skills, educa
 
 <div align="center">
 
-<!--comment kiya hai<a href="https://portfolio-website-three-omega-20.vercel.app">-->
-
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
-
+<!-- LIVE PORTFOLIO BUTTON TEMPORARILY DISABLED
+<a href="https://portfolio-website-three-omega-20.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
 </a>
-
-&nbsp;
+-->
 
 <a href="https://github.com/kumarun415/portfolio-website">
-
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code"/>
 </a>
 
 </div>
@@ -198,9 +186,7 @@ A modern developer portfolio built to showcase projects, technical skills, educa
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg"
-     width="100%"
-     alt="Animated 3D GitHub Contribution Profile"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub Contribution Profile"/>
 
 </div>
 
@@ -232,10 +218,12 @@ width="100%"/>
 </picture>
 
 </div>
-<!--
+
+<!-- LEETCODE ACTIVITY TEMPORARILY DISABLED
+
 ---
 
-<!--# 💻 LeetCode Activity
+# 💻 LeetCode Activity
 
 <div align="center">
 
@@ -257,8 +245,10 @@ alt="View LeetCode Profile"/>
 
 </a>
 
-</div>-->
+</div>
+
 -->
+
 ---
 
 # 📚 Currently Learning
@@ -309,31 +299,33 @@ alt="View LeetCode Profile"/>
 
 # 🤝 Let's Connect
 
-<!--<div align="center">
+<!-- CONNECTION BUTTONS TEMPORARILY DISABLED
+
+<div align="center">
 
 <a href="https://github.com/kumarun415">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://portfolio-website-three-omega-20.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://leetcode.com/u/arun-k____2311/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arun-kumar-a8b310382">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/kumarun415">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 </div>
 
---->
+-->
 
 <div align="center">
 
