@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-website-three-omega-20.vercel.app">
+<!--comment kiya hai <a href="https://portfolio-website-three-omega-20.vercel.app">-->
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -150,7 +150,7 @@ A modern developer portfolio built to showcase projects, technical skills, educa
 
 <div align="center">
 
-<a href="https://portfolio-website-three-omega-20.vercel.app">
+<!--comment kiya hai<a href="https://portfolio-website-three-omega-20.vercel.app">-->
 
 <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 
@@ -235,7 +235,7 @@ width="100%"/>
 <!--
 ---
 
-# 💻 LeetCode Activity
+<!--# 💻 LeetCode Activity
 
 <div align="center">
 
@@ -257,7 +257,7 @@ alt="View LeetCode Profile"/>
 
 </a>
 
-</div>
+</div>-->
 -->
 ---
 
@@ -309,7 +309,7 @@ alt="View LeetCode Profile"/>
 
 # 🤝 Let's Connect
 
-<div align="center">
+<!--<div align="center">
 
 <a href="https://github.com/kumarun415">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -333,7 +333,7 @@ alt="View LeetCode Profile"/>
 
 </div>
 
----
+--->
 
 <div align="center">
 
